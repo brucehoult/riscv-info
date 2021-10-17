@@ -1,4 +1,4 @@
-## Compiler Explorer
+# Compiler Explorer
 
 If you want to quickly see what assembly language code is generated
 from C code for RISC-V (or a number of other ISAs) the site
