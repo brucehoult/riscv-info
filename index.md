@@ -13,9 +13,9 @@ detailed and technical reference material.
 
 # Quickly try out RISC-V
 
-[See what RISC-V code is generated from C code?](faq/compiler_explorer.md)
+See what [RISC-V code is generated from C code](faq/compiler_explorer.md)
 
-[Try RISC-V Linux?](faq/JSLinux.md)
+Try RISC-V Linux [in your web browser](faq/JSLinux.md)
 
 Simple [Primes benchmark](faq/primes.md) for RISC-V SBCs and other computers.
 
@@ -37,5 +37,5 @@ Why would I want to use RISC-V instead of another ISA?
 
 # Developing software for RISC-V
 
-[How can I build my own RISC-V toolchain?](https://github.com/riscv-collab/riscv-gnu-toolchain)
+Build my own [RISC-V toolchain?](https://github.com/riscv-collab/riscv-gnu-toolchain)
 
