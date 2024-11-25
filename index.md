@@ -3,12 +3,12 @@
 This site a guide to the world of RISC-V. As RISC-V is a work in progress,
 so is the site.
 
-I hope an everage person who does not already know computer
+I hope an average person who does not already know computer
 programming or how computers work can learn here what RISC-V is, what
 it can be used for, and how to get started with RISC-V.
 
 The goal is to be an easy to understand guide that is self-contained
-and covers all topics at an easy level, with references to more
+and covers all topics at an easy level, with external links to more
 detailed and technical reference material.
 
 # Quickly try out RISC-V
