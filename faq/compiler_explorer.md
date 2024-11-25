@@ -1,8 +1,9 @@
 # Compiler Explorer
 
 If you want to quickly see what assembly language code is generated
-from C code for RISC-V (or a number of other ISAs) the site
-http://godbolt.org is very useful.
+from C code for RISC-V (or a number of other ISAs) the
+[Compiler Exploror](http://godbolt.org) site (often referred to as "Godbolt"
+after its domain name and creator Matt Godbolt) is very useful.
 
 You can choose rv32 or rv64, different versions of gcc or clang, and
 different compiler options such as optimisation levels or code
