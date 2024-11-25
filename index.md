@@ -1,15 +1,16 @@
-# Introduction
+# RISC-V Info
 
-This site a guide to the world of RISC-V. As RISC-V is a work in progress,
-so is the site.
+This site a guide to the computer instruction set [RISC-V](https://riscv.org/).
 
-I hope an average person who does not already know computer
-programming or how computers work can learn here what RISC-V is, what
-it can be used for, and how to get started with RISC-V.
+I hope an average person can learn here what RISC-V is, what it can be
+used for, and how to get started with RISC-V.
 
 The goal is to be an easy to understand guide that is self-contained
 and covers all topics at an easy level, with external links to more
 detailed and technical reference material.
+
+This site is as factual and accurate as possible, but inevitably some things
+are the opinion of [Bruce Hoult](Bruce).
 
 # Quickly try out RISC-V
 
