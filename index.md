@@ -1,16 +1,20 @@
 # RISC-V Info
 
-This site a guide to the computer instruction set [RISC-V](https://riscv.org/).
+This site a guide to the computer ISA ([instruction set
+architecture(https://en.wikipedia.org/wiki/Instruction_set_architecture))
+[RISC-V](https://riscv.org/).
 
-I hope an average person can learn here what RISC-V is, what it can be
-used for, and how to get started with RISC-V.
+You can learn here what RISC-V is, what it can be used for, how to
+get started with RISC-V, and how to solve common problems.
 
 The goal is to be an easy to understand guide that is self-contained
 and covers all topics at an easy level, with external links to more
 detailed and technical reference material.
 
 This site is as factual and accurate as possible, but inevitably some things
-are the opinion of [Bruce Hoult](Bruce).
+are personal opinion.
+
+Created by [Bruce Hoult](Bruce).
 
 # Quickly try out RISC-V
 
