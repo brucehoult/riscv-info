@@ -6,7 +6,7 @@ run Linux in your web browser.
 Each program takes a few seconds to load the first time, depending on
 your internet speed. But once loaded they are quite usable on a modern
 computer.  On my M1 Mac Mini in Chrome it runs my [Primes
-benchmark](primes.md) in 190 seconds, comparable to
+benchmark](primes) in 190 seconds, comparable to
 a 200 MHz single-issue RISC-V CPU.
 
 There are versions with Fedora 33 or Buildroot, console or X Windows.

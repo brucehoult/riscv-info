@@ -13,11 +13,11 @@ detailed and technical reference material.
 
 # Quickly try out RISC-V
 
-See what [RISC-V code is generated from C code](faq/compiler_explorer.md)
+See what [RISC-V code is generated from C code](faq/compiler_explorer)
 
-Try RISC-V Linux [in your web browser](faq/JSLinux.md)
+Try RISC-V Linux [in your web browser](faq/JSLinux)
 
-Simple [Primes benchmark](faq/primes.md) for RISC-V SBCs and other computers.
+Simple [Primes benchmark](faq/primes) for RISC-V SBCs and other computers.
 
 # General Information
 
