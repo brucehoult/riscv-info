@@ -1,7 +1,7 @@
 # RISC-V Info
 
-This site a guide to the computer ISA ([instruction set
-architecture(https://en.wikipedia.org/wiki/Instruction_set_architecture))
+This site a guide to the computer ISA [(instruction set
+architecture)](https://en.wikipedia.org/wiki/Instruction_set_architecture)
 [RISC-V](https://riscv.org/).
 
 You can learn here what RISC-V is, what it can be used for, how to
@@ -34,7 +34,7 @@ Why would I want to use RISC-V instead of another ISA?
 
 [What boards are available to buy?](https://riscv.org/exchange/?_sft_exchange_category=board,hardware)
 
-I want to build a chip with RISC-V. [What cores are available?](https://riscv.org/exchange/?_sft_exchange_category=core,cores
+I want to build a chip with RISC-V. [What cores are available?](https://riscv.org/exchange/?_sft_exchange_category=core,cores)
 
 # Operating Systems and other available Software
 
