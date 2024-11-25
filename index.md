@@ -37,5 +37,5 @@ Why would I want to use RISC-V instead of another ISA?
 
 # Developing software for RISC-V
 
-Build my own [RISC-V toolchain?](https://github.com/riscv-collab/riscv-gnu-toolchain)
+Build your own [RISC-V toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain)
 
