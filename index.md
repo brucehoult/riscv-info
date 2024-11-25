@@ -11,11 +11,13 @@ The goal is to be an easy to understand guide that is self-contained
 and covers all topics at an easy level, with references to more
 detailed and technical reference material.
 
-# Quick Start / Casual Use
+# Quickly try out RISC-V
 
-[How can I quickly see what RISC-V code is generated from C code?](faq/compiler_explorer.md)
+[See what RISC-V code is generated from C code?](faq/compiler_explorer.md)
 
-[How can I quickly try RISC-V Linux?](faq/JSLinux.md)
+[Try RISC-V Linux?](faq/JSLinux.md)
+
+Simple [Primes benchmark](faq/primes.md) for RISC-V SBCs and other computers.
 
 # General Information
 
