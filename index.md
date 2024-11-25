@@ -32,13 +32,13 @@ Why would I want to use RISC-V instead of another ISA?
 
 # RISC-V Hardware
 
-[What boards are available to buy?](https://riscv.org/exchange/)
+[What boards are available to buy?](https://riscv.org/exchange/?_sft_exchange_category=board,hardware)
 
-[I want to build a chip with RISC-V. What cores are available?](https://riscv.org/exchange/cores-socs/)
+I want to build a chip with RISC-V. [What cores are available?](https://riscv.org/exchange/?_sft_exchange_category=core,cores
 
 # Operating Systems and other available Software
 
-[Extensive list of available software](https://riscv.org/exchange/software/)
+[Extensive list of available software](https://riscv.org/exchange/?_sft_exchange_category=software)
 
 # Developing software for RISC-V
 
